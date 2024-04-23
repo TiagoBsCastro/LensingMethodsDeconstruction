@@ -49,13 +49,13 @@ LensingMethodsDeconstruction/
   - **magn** (Magnitude)
   - **mu** (Magnification)
   
-  Each subdirectory includes data from N-body simulations and the Pinocchio method, detailing PDFs as two columns: `x` and either `dP/dX` (for convergence) or `dP/dLogX` (for magnification, shear, and magnitude).
+Each subdirectory includes data from N-body simulations and the Pinocchio method, detailing PDFs as two columns: `x` and either `dP/dX` (for convergence) or `dP/dLogX` (for magnification, shear, and magnitude).
 
-- **scripts**: Includes Python scripts and data used to extract PDFs from the Magneticum simulations. It also contains scripts to estimate the regimes in each variable where baryonic effects are minimal, supporting the analysis of data integrity and applicability in lensing studies.
+- **scripts**: Includes Python scripts and data used to extract PDFs from the [Magneticum](https://magneticum.org) simulations. It also contains scripts to estimate the regimes in each variable where baryonic effects are minimal, supporting the analysis of data integrity and applicability in lensing studies.
 
 ## Usage
 
-To use the scripts and data in this repository, navigate to the respective directory and refer to the specific README files within those directories for detailed instructions on executing the scripts or analyzing the data.
+To use the scripts and data in this repository, navigate to the respective directory and refer to the specific [README](./scripts/README.md) file within the directory for detailed instructions on executing the scripts or analyzing the data.
 
 ## Contributing
 
@@ -70,7 +70,6 @@ If you use the data or scripts provided in this repository in your research, ple
 ## License
 
 This project is licensed under the GPL3 - see the [LICENSE](./LICENSE) file for details.
-
 
 </div>
 
