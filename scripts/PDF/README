@@ -1,0 +1,23 @@
+Readme File for the lensing PDF's presented in https://arxiv.org/abs/1711.10017
+Visit http://magneticum.org/simulations.html for more details on the different simulations.
+
+The (not normalized) PDF's for kappa, log10(|mu|), and log10(gamma) for both DM-only ("dm") 
+and Hydro simulations ("bao") are stored under the following folder tree:
+
+ - Box3 (hr): 
+   |-> Convergence (kappa files)
+   |-> Magnification (log_mu files)
+   |-> Shear (log_gamma files)
+ - Box4 (uhr):
+   |-> Convergence (kappa files)
+   |-> Magnification (log_mu files)
+   |-> Shear (log_gamma files)
+
+The angular resolution is depicted in the file name and spans from 00.22-14.08 arcsec.
+
+All results in this file are free to use at your own risk. When using using them please cite 
+this paper:
+===========================================================================================
+The effect of baryons in the cosmological lensing PDFs   (https://arxiv.org/abs/1711.10017)
+Authors: Tiago Castro, Miguel Quartin, Carlo Giocoli, Stefano Borgani, Klaus Dolag
+===========================================================================================
