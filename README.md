@@ -1,5 +1,7 @@
 # LensingMethodsDeconstruction
 
+<div align="justify">
+
 Data and scripts from "A Deconstruction of Methods to Derive One-Point Lensing Statistics," evaluating different methods for lensing PDFs in weak and strong regimes.
 
 ## Overview
@@ -8,6 +10,7 @@ This repository contains the datasets and scripts used in the study "A Deconstru
 
 ## Repository Structure
 
+```plaintext
 LensingMethodsDeconstruction/
 ├── PDFs
 │ ├── gamma
@@ -36,7 +39,7 @@ LensingMethodsDeconstruction/
 ├── Convergence
 ├── Magnification
 └── Shear
-
+```
 
 ### Directory Descriptions
 
@@ -67,4 +70,7 @@ If you use the data or scripts provided in this repository in your research, ple
 ## License
 
 This project is licensed under the GPL3 - see the [LICENSE](./LICENSE) file for details.
+
+
+</div>
 
