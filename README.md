@@ -22,7 +22,7 @@ LensingMethodsDeconstruction/
 │ ├── kappa
 │ │ ├── NBody
 │ │ ├── PINOCCHIO
-│ │ └── PINOCCHIO_halos
+│ │ ├── PINOCCHIO_halos
 │ │ └── turboGL
 │ ├── magn
 │ │ ├── NBody
