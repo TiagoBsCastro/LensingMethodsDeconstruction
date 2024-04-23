@@ -1,6 +1,6 @@
 # PDF Analysis Tool
 
-This script provides tools for analyzing probability density functions (PDFs) used in lensing studies, specifically designed to handle data from various simulation methods such as N-Body and PINOCCHIO. It offers functionality for reading PDF data, computing moving averages, and comparing PDFs to determine significant differences.
+This script provides tools for analyzing probability density functions (PDFs) used in our paper.
 
 ## Features
 
