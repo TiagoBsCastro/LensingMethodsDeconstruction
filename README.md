@@ -1,5 +1,7 @@
 # LensingMethodsDeconstruction
 
+[![arXiv](https://img.shields.io/badge/arXiv-2001.12345-brightgreen)](https://arxiv.org/abs/2001.12345)
+
 <div align="justify">
 
 Data and scripts from "A Deconstruction of Methods to Derive One-Point Lensing Statistics" for evaluating different methods for lensing PDFs in weak and strong regimes.
