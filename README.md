@@ -15,33 +15,41 @@ This repository contains the datasets and scripts used in the study "A Deconstru
 ```plaintext
 LensingMethodsDeconstruction/
 ├── PDFs
-│ ├── gamma
-│ │ ├── NBody
-│ │ ├── PINOCCHIO
-│ │ └── PINOCCHIO_halos
-│ ├── kappa
-│ │ ├── NBody
-│ │ ├── PINOCCHIO
-│ │ ├── PINOCCHIO_halos
-│ │ └── turboGL
-│ ├── magn
-│ │ ├── NBody
-│ │ ├── PINOCCHIO
-│ │ └── PINOCCHIO_halos
-│ └── mu
-│ ├── NBody
-│ ├── PINOCCHIO
-│ └── PINOCCHIO_halos
+│   ├── gamma
+│   │   ├── NBody
+│   │   ├── PINOCCHIO
+│   │   └── PINOCCHIO_halos
+│   ├── kappa
+│   │   ├── NBody
+│   │   ├── PINOCCHIO
+│   │   ├── PINOCCHIO_halos
+│   │   └── turboGL
+│   │       ├── z=0.96
+│   │       │   └── 1.76_arcsec
+│   │       ├── z=1.98
+│   │       │   └── 1.76_arcsec
+│   │       ├── z=3.08
+│   │       │   └── 1.76_arcsec
+│   │       └── z=4.90
+│   │           └── 1.76_arcsec
+│   ├── magn
+│   │   ├── NBody
+│   │   ├── PINOCCHIO
+│   │   └── PINOCCHIO_halos
+│   └── mu
+│       ├── NBody
+│       ├── PINOCCHIO
+│       └── PINOCCHIO_halos
 └── scripts
-└── PDF
-├── Box3
-│ ├── Convergence
-│ ├── Magnification
-│ └── Shear
-└── Box4
-├── Convergence
-├── Magnification
-└── Shear
+    └── PDF
+        ├── Box3
+        │   ├── Convergence
+        │   ├── Magnification
+        │   └── Shear
+        └── Box4
+            ├── Convergence
+            ├── Magnification
+            └── Shear
 ```
 
 ### Directory Descriptions
