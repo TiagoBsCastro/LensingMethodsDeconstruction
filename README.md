@@ -1,6 +1,6 @@
 # LensingMethodsDeconstruction
 
-[![arXiv](https://img.shields.io/badge/arXiv-2001.12345-brightgreen)](https://arxiv.org/abs/2001.12345)
+[![arXiv](https://img.shields.io/badge/arXiv-2001.12345-brightgreen)](https://arxiv.org/abs/2001.12345) [![DOI](https://zenodo.org/badge/790708834.svg)](https://zenodo.org/doi/10.5281/zenodo.11093019)
 
 <div align="justify">
 
