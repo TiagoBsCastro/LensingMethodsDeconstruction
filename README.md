@@ -1,6 +1,6 @@
 # LensingMethodsDeconstruction
 
-[![arXiv](https://img.shields.io/badge/arXiv-2001.12345-brightgreen)](https://arxiv.org/abs/2001.12345) [![DOI](https://zenodo.org/badge/790708834.svg)](https://zenodo.org/doi/10.5281/zenodo.11093019)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.00147-brightgreen)](https://arxiv.org/abs/2405.00147) [![DOI](https://zenodo.org/badge/790708834.svg)](https://zenodo.org/doi/10.5281/zenodo.11093019)
 
 <div align="justify">
 
@@ -76,7 +76,15 @@ Contributions to this repository are welcome. Please fork the repository and sub
 
 If you use the data or scripts provided in this repository in your research, please cite the following paper:
 
-- Alfradique, V., Castro, T.,... "A Deconstruction of Methods to Derive One-Point Lensing Statistics." (Year). Journal.
+@article{Alfradique:2024fkb,
+    author = "Alfradique, Viviane and Castro, Tiago and Marra, Valerio and Quartin, Miguel and Giocoli, Carlo and Monaco, Pierluigi",
+    title = "{A deconstruction of methods to derive one-point lensing statistics}",
+    eprint = "2405.00147",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    month = "4",
+    year = "2024"
+}
 
 ## License
 
