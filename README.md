@@ -75,7 +75,7 @@ Contributions to this repository are welcome. Please fork the repository and sub
 ## Citation
 
 If you use the data or scripts provided in this repository in your research, please cite the following paper:
-
+```
 @article{Alfradique:2024fkb,
     author = "Alfradique, Viviane and Castro, Tiago and Marra, Valerio and Quartin, Miguel and Giocoli, Carlo and Monaco, Pierluigi",
     title = "{A deconstruction of methods to derive one-point lensing statistics}",
@@ -85,6 +85,7 @@ If you use the data or scripts provided in this repository in your research, ple
     month = "4",
     year = "2024"
 }
+```
 
 ## License
 
